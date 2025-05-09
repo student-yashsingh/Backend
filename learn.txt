@@ -1,0 +1,5 @@
+Node REPL(read eval print loop) -> is a computer environment where user inputs are read and evaluated,
+and then the results are returned to the user.
+
+
+ctrl + c-> it may help u to get the out of the terminal siultaneously.
